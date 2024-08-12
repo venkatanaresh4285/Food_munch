@@ -4,4 +4,4 @@ about a food item, offers
 ● Designed page using following HTML structure elements like li, header, article, footer elements and
 different bootstrap components to show different sections in the website and different bootstrap classes
 for responsiveness through mobile-first approach.
-## Technologies used: HTML, CSS, Bootstrap
+#### Technologies used: HTML, CSS, Bootstrap
